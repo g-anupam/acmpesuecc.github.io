@@ -1,7 +1,7 @@
 ---
 title: Week 1
 lead:
-date: 25 March 2024
+date: 18 March 2024
 summary: Bootstrap our Static Site Generator
 ---
 # Anirudh’s Progress
