@@ -78,10 +78,10 @@ export default function AIEP() {
         slug="design-and-simulation-of-uavs"
       />
       <ProjectCard
-        title="SSG: A static site generator built with Go!"
+        title="Anna: A static site generator built with Go!"
         lead=""
         desc=""
-        slug="ssg"
+        slug="anna"
       />
     </div>
   );

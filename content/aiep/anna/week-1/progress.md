@@ -1,5 +1,5 @@
 ---
-title: Week 1
+title: Week-1 Progress
 lead:
 date: 18 March 2024
 summary: Bootstrap our Static Site Generator

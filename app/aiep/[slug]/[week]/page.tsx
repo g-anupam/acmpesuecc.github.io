@@ -13,7 +13,7 @@ export async function generateStaticParams() {
     'academyx',
     'exploring-database-internals',
     'design-and-simulation-of-uavs',
-    'ssg'
+    'anna'
   ];
   const weeks = ['week-1', 'week-2', 'week-3', 'week-4', 'week-5', 'week-6'];
   const staticPaths: { slug: string; week: string }[] = [];

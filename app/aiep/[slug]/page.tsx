@@ -4,7 +4,7 @@ export async function generateStaticParams() {
     'academyx',
     'exploring-database-internals',
     'design-and-simulation-of-uavs',
-    'ssg'
+    'anna'
   ];
   return slugs.map((slug) => ({ slug: slug }));
 }
@@ -69,9 +69,9 @@ const projects = {
     desc: `Dive deep into the fascinating realm of Unmanned Aerial Vehicles (UAVs) as we explore their intricacies
      through innovative design and realistic simulation.`
   },
-  ssg: {
-    slug: 'ssg',
-    title: 'SSG: A static site generator built with Go!',
+  anna: {
+    slug: 'anna',
+    title: 'Anna: A static site generator built with Go!',
     lead: '',
     members: ['Adhesh Athrey', 'Nathan Paul', 'Anirudh Sudhir', 'Aditya Hegde'],
     desc: (
