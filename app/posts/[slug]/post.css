@@ -109,7 +109,7 @@ blockquote {
   font-style: italic;
 }
 
-em {
+a, em {
   color: rgb(186 230 253);
 }
 
