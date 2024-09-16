@@ -1,6 +1,6 @@
 ---
 title: 'The bun-samosa challenge'
-description: 'Help us investigate the '
+description: 'Help us investigate who the culprit is in this SQL challenge'
 authors: ACMPESUECC
 tags: [ACM, challenge]
 date: '2024-09-16'
