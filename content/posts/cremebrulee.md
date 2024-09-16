@@ -10,7 +10,7 @@ date: '2024-09-16'
 
 In the deep lands of Hacktopia, ACM conducts its annual flagship hackathon, *Hacknight,* in the midst of the Hacktober Fest. People gather to hack together and contribute to projects in the most unique way possible compared to any other in the land. Filled with participants, and maintainers helping each other out, lies the brains of the event - the `bun-samosa` bot. With an unbeaten ability to handle extreme server load, it has been unchallenged in the valley. 
 
-With years of being unbeaten, some events lead its failure, and no one was able to access the sites and get issues assigned. After getting the servers back up and running, now its time to catch the culprit behind this mess. All that’s left is some important logs in an `SQlite` db, but have some crucial information that can be used to trace back to the person. The *access logs* have some spike in requests coming in to the server, and figure out a way to trace back to the person. 
+With years of being unbeaten, some events lead to its failure, and no one was able to access the sites and get issues assigned. After getting the servers back up and running, now its time to catch the culprit behind this mess. All that’s left is some important logs in an `SQlite` db, but have some crucial information that can be used to trace back to the person. The *access logs* have some spike in requests coming in to the server, and figure out a way to trace back to the person. 
 
 > These `SQlite` files are unique per person and any attempts to cheat or collaborate will result in disqualification
 
