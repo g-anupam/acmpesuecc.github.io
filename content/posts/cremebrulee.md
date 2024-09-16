@@ -18,5 +18,5 @@ You are in need of some basic tools like *SQlite* that will help you get around 
 
 *Who was the person that got to the servers*, your responses will be recorded in a form that will be sent shortly. *We want your answers in the following format along with the steps you took to solve the problem in a `.sql` file*
 
-> ip, time, name (decoded) and location from where the attack took place
+> ip, time, name and location from where the attack took place
 
